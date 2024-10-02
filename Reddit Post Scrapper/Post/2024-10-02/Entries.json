@@ -1,0 +1,184 @@
+[
+  {
+    "title": "The EU is trying to implement a plan to use AI to scan and report all private encrypted communication. This is insane and breaks the fundamental concepts of privacy and end to end encryption. Don’t sleep on this Europeans. Call and harass your reps in Brussels.",
+    "selftext": "",
+    "link_flair_text": "Privacy",
+    "url": "https://signal.org/blog/pdfs/upload-moderation.pdf",
+    "permalink": "/r/linux/comments/1djfqo7/the_eu_is_trying_to_implement_a_plan_to_use_ai_to/"
+  },
+  {
+    "title": "Audacious - Best Winamp alternative for Linux",
+    "selftext": "You can apply every old Winamp skin and it will look and act exactly the same!",
+    "link_flair_text": "Popular Application",
+    "url": "https://i.redd.it/b31bjrhwmbsd1.jpeg",
+    "permalink": "/r/linux/comments/1fud22b/audacious_best_winamp_alternative_for_linux/"
+  },
+  {
+    "title": "Mozilla's massive lapse in judgement causes clash with uBlock Origin developer",
+    "selftext": "",
+    "link_flair_text": "Popular Application",
+    "url": "https://www.ghacks.net/2024/10/01/mozillas-massive-lapse-in-judgement-causes-clash-with-ublock-origin-developer/",
+    "permalink": "/r/linux/comments/1fts18a/mozillas_massive_lapse_in_judgement_causes_clash/"
+  },
+  {
+    "title": "Nvidia: Improve desktop animations by raising GPU min frequency",
+    "selftext": "Hi, I'm the current maintainer of [optimus-manager](https://github.com/Askannz/optimus-manager).\n\nI have observed an idea I have just shared with Nvidia. Otherwise I may implement it on optimus-manager itself.\n\nProbably we could improve desktop animations by setting the min frequency of the GPU a bit higher.\n\nYou can see the discussion [here](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/714).",
+    "link_flair_text": "Popular Application",
+    "url": "https://www.reddit.com/r/linux/comments/1fu51y7/nvidia_improve_desktop_animations_by_raising_gpu/",
+    "permalink": "/r/linux/comments/1fu51y7/nvidia_improve_desktop_animations_by_raising_gpu/"
+  },
+  {
+    "title": "Arch Linux package maintainer Robin \"Antiz\" Candau explains what the Valve collaboration means for Arch",
+    "selftext": "Since Arch leader Levente Polyak's announcement on their mailing list that Valve would be providing backing for two critical projects for the distro, a build service infrastructure and a secure signing enclave, many in the community were speculating about what this means in a practical sense, why Valve would be interested in sponsoring these projects in particular, as well as what it means for Arch's autonomy as a community-run, volunteer-driven distro. Arch maintainer Antiz joined the A1R Podcast yesterday to answer all of these questions and put some concerns to rest!\n\nSource: [https://www.youtube.com/watch?v=zB62zhzGV1A](https://www.youtube.com/watch?v=zB62zhzGV1A)\n\nAs of now, Arch Linux only supports x86\\_64 systems on an official basis. Unfortunately, due to inefficiencies of their current packaging pipeline, attempting to support more now would mean practically multiplying their current workload by the amount of architectures they want to support, which is infeasible for a volunteer-run distro.\n\nBoth of the projects Valve are interested in backing are ones that Arch themselves have been interested in working on for a long time, and both relate to *significantly* streamlining the process of maintaining and signing packages for Arch in a way that would allow them to feasibly support more architectures in the future.\n\nAs stated by Antiz, Valve is going to contract some existing members of the Arch staff on a freelance basis to work on these projects. Since they have the opportunity to be able to work on them full-time, progress on this infrastructure will be made significantly faster than it would have been able to be otherwise!\n\nThey also went on to confirm that all development will be done in Arch's usual democratic, consensus-building workflow, including RFCs to discuss implementation. Valve has no interest in \"taking over\" any aspect of the distro or dictating any terms or specifics of this implementation.\n\nAs for what Valve wants to gain from this collaboration, we can only speculate at this time. But given recent leaks and rumours, it is very clear that Valve has interest in releasing ARM-powered, Linux-based gaming hardware; *probably* initially in the form of a standalone VR headset, similar to the Oculus Quest -- based on patents they've filed, as well as metadata found on Steam suggesting that Valve is currently testing arm64 versions of Proton, the FEX x86 emulator, as well as several VR titles running under Waydroid. As you may know, the SteamOS distro currently powering the Steam Deck is based on Arch Linux. Supporting Arch directly in their pre-existing desire to eventually support additional platforms and architectures would allow Valve to avoid either maintaining their own ARM package base, or switching to a different distro.\n\nTL;DW written by Antiz himself:\n\n&gt;Basically, the way packages are currently built / managed still require a few manual interventions from Package Maintainers (e.g. triggering the build itself and signing the built packages afterwards). As of now, supporting multiple architectures would mean multiplying those manual steps by the number of supported / targeted architectures. With the current number of packages compared to the current number of (volunteers) Package Maintainers maintaining them, Arch is not able to handle the extra amount of effort that it would imply.\n\n&gt;A central build service and a central secure signing enclave (the two projects concerned by that Valve \"sponsoring\") would streamline the overall process by allowing automated build and signing for packages without requiring any manual steps / interventions from Package Maintainers anymore (and it will also allow to increase the security of the process as a side benefit). Only such a streamlined / automated workflow would allow us to start working on supporting multiple architectures without implying to multiply the current amount of required effort.\n\n&gt;In other words, those projects are prerequisites to start working on multiple architectures support in a clean &amp; sane way, which is a end goal shared by both Arch and Valve.",
+    "link_flair_text": "Distro News",
+    "url": "https://www.reddit.com/r/linux/comments/1ftlp2t/arch_linux_package_maintainer_robin_antiz_candau/",
+    "permalink": "/r/linux/comments/1ftlp2t/arch_linux_package_maintainer_robin_antiz_candau/"
+  },
+  {
+    "title": "Firefox 131.0 Release",
+    "selftext": "",
+    "link_flair_text": "Software Release",
+    "url": "https://www.mozilla.org/en-US/firefox/131.0/releasenotes/",
+    "permalink": "/r/linux/comments/1ftnzqz/firefox_1310_release/"
+  },
+  {
+    "title": "On the importance of F-Droid, an Android app store",
+    "selftext": "",
+    "link_flair_text": "Mobile Linux",
+    "url": "https://rocket9labs.com/post/on-the-importance-of-f-droid/",
+    "permalink": "/r/linux/comments/1ftso8i/on_the_importance_of_fdroid_an_android_app_store/"
+  },
+  {
+    "title": "Linux 6.13 To Bring Big/Super Pages For The Raspberry Pi Graphics Driver - Better Performance",
+    "selftext": "",
+    "link_flair_text": "Kernel",
+    "url": "https://www.phoronix.com/news/Linux-6.13-Big-Super-RPi-V3D",
+    "permalink": "/r/linux/comments/1ftp04q/linux_613_to_bring_bigsuper_pages_for_the/"
+  },
+  {
+    "title": "Kernel Recipes 2024 Slides &amp; Videos Posted",
+    "selftext": "",
+    "link_flair_text": "Kernel",
+    "url": "https://www.phoronix.com/news/Kernel-Recipes-2024-Slides",
+    "permalink": "/r/linux/comments/1fu286b/kernel_recipes_2024_slides_videos_posted/"
+  },
+  {
+    "title": "Fully switched to linux and its awesome",
+    "selftext": "Havent even had windows enabled for a few days since my new case needs sata cables for power so i'm waiting on another nvme drive for gaming/windows\n\nin the mean time using linux is pretty painless! even games i didnt think would work do, it turns out wine and proton are insanely powerful. I grew up with mac os so it feels great to be back on a os that is unix based. using backslashes felt so weird lol\n\nfirst pc upgrade in 7 years\n7700k to 5800x3d\n16gb to 32gb ram\nnew mobo\n3 4tb drives in raid 5\n\nall running on mx linux and feeling amazing. i tried dual booting mint for a month and after getting my sealegs I absolutely love how it behaves. KDE is awesome\n\nI wish that games like League of Legends etc would work but its fine, ill just silo them off onto a windows drive i guess \n\njust wanted to share yet another success story. i wish i had switched earlier instead of bitching for 5 years lmao",
+    "link_flair_text": "Fluff",
+    "url": "https://www.reddit.com/r/linux/comments/1ftim7u/fully_switched_to_linux_and_its_awesome/",
+    "permalink": "/r/linux/comments/1ftim7u/fully_switched_to_linux_and_its_awesome/"
+  },
+  {
+    "title": "Scared to switch to LINUX",
+    "selftext": "I am thinking to switch to LINUX. But I don't know anything about it, or how to do it. I don't know anything about OS too, except that it's in my laptop and helps me run my laptop. I know few terms like: GUI, VIM, CLI, etc.\n\nI have used BASH only at beginner's level. And I know C and C++ (only at beginner's level). My friend suggested me to switch to LINUX. He briefed the process that I need to flash an ISO file and will need to install few stuffs. He told me something about \"titling WMs\", which I don't know, what is that? Only thing I know about the process I need to \"back-up\" the data, which I have already. Now what?\n\nI need few suggestions, what should I do? How should I proceed? Any expert, who can tell me about LINUX and process about switching to it? And what is ARCH LINUX? Do I need to know about it too? Can I use arch LINUX too? If not, then what? How was your experience? Just tell me about LINUX and process of switching to it, whatever you people can tell. Just anything. ",
+    "link_flair_text": "Fluff",
+    "url": "https://www.reddit.com/r/linux/comments/1fudnvg/scared_to_switch_to_linux/",
+    "permalink": "/r/linux/comments/1fudnvg/scared_to_switch_to_linux/"
+  },
+  {
+    "title": "Enlightenment &amp; i3",
+    "selftext": "These have to be my two favorite window managers. I use E when I feel I need eye candy, and i3 when I feel I need to free myself from all distractions.  A match made in heaven for me. I feel like people need to embrace terminology since it can do graphics right in the terminal via escapes.  The two both have the one other thing I look for in a wm: easily able to recompile source and go, much like nano and vim are to me as editors, i3 and E are to me as wms. \n\nI think E especially needs a round of applause just for being around for so long. I remember compiling it 20 years ago just as I am now and being just as excited about it :3",
+    "link_flair_text": "Fluff",
+    "url": "https://www.reddit.com/r/linux/comments/1ftu3ip/enlightenment_i3/",
+    "permalink": "/r/linux/comments/1ftu3ip/enlightenment_i3/"
+  },
+  {
+    "title": "Binsider - Analyze binaries without leaving the terminal (0.2.0 is released!)",
+    "selftext": "",
+    "link_flair_text": "Software Release",
+    "url": "https://i.redd.it/acqbpsys9xrd1.gif",
+    "permalink": "/r/linux/comments/1fss57s/binsider_analyze_binaries_without_leaving_the/"
+  },
+  {
+    "title": "[openSUSE] Tumbleweed Monthly Update - September 2024",
+    "selftext": "",
+    "link_flair_text": "Distro News",
+    "url": "https://news.opensuse.org/2024/09/30/tw-monthly-update-september/",
+    "permalink": "/r/linux/comments/1fthzz2/opensuse_tumbleweed_monthly_update_september_2024/"
+  },
+  {
+    "title": "AI File Organizer Update: Now with Dry Run Mode and Llama 3.2 as Default Model",
+    "selftext": "Hey r/linux !\n\nI previously shared my AI file organizer project that reads and sorts files, and it runs 100% on-device: ( [https://www.reddit.com/r/linux/comments/1fmgds2/i\\_built\\_a\\_python\\_script\\_uses\\_ai\\_to\\_organize\\_files/](https://www.reddit.com/r/linux/comments/1fmgds2/i_built_a_python_script_uses_ai_to_organize_files/) ) and got tremendous support from the community! Thank you!!!\n\n**Here's how it works:**\n\n    Before:\n    /home/user/messy_documents/\n    ├── IMG_20230515_140322.jpg\n    ├── IMG_20230516_083045.jpg\n    ├── IMG_20230517_192130.jpg\n    ├── budget_2023.xlsx\n    ├── meeting_notes_05152023.txt\n    ├── project_proposal_draft.docx\n    ├── random_thoughts.txt\n    ├── recipe_chocolate_cake.pdf\n    ├── scan0001.pdf\n    ├── vacation_itinerary.docx\n    └── work_presentation.pptx\n    \n    0 directories, 11 files\n    \n    After:\n    /home/user/organized_documents/\n    ├── Financial\n    │   └── 2023_Budget_Spreadsheet.xlsx\n    ├── Food_and_Recipes\n    │   └── Chocolate_Cake_Recipe.pdf\n    ├── Meetings_and_Notes\n    │   └── Team_Meeting_Notes_May_15_2023.txt\n    ├── Personal\n    │   └── Random_Thoughts_and_Ideas.txt\n    ├── Photos\n    │   ├── Cityscape_Sunset_May_17_2023.jpg\n    │   ├── Morning_Coffee_Shop_May_16_2023.jpg\n    │   └── Office_Team_Lunch_May_15_2023.jpg\n    ├── Travel\n    │   └── Summer_Vacation_Itinerary_2023.doc\n    └── Work\n        ├── Project_X_Proposal_Draft.docx\n        ├── Quarterly_Sales_Report.pdf\n        └── Marketing_Strategy_Presentation.pptx\n    \n    7 directories, 11 files\n\nI read through all the comments and worked on implementing changes over the past week. Here are the new features in this release:\n\n**v0.0.2 New Features:**\n\n* Dry Run Mode: Preview sorting results before committing changes\n* Silent Mode: Save logs to a text file for quieter operation\n* Expanded file support: `.md`, `.xlsx`, `.pptx`, and `.csv`\n* Three sorting options: by content, date, or file type\n* Default text model updated to Llama 3.2 3B\n* Enhanced CLI interaction experience\n* Real-time progress bar for file analysis\n\nFor the roadmap and download instructions, check the stable v0.0.2: [https://github.com/NexaAI/nexa-sdk/tree/main/examples/local\\_file\\_organization](https://github.com/NexaAI/nexa-sdk/tree/main/examples/local_file_organization)\n\nFor incremental updates with experimental features, check my personal repo: [https://github.com/QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer)\n\nCredit to the Nexa team for featuring me on their official cookbook and offering tremendous support on this new version. Executables for the whole project are on the way.\n\nWhat are your thoughts on this update? Is there anything I should prioritize for the next version?\n\nThank you!!",
+    "link_flair_text": "Discussion",
+    "url": "https://www.reddit.com/r/linux/comments/1ftc7d0/ai_file_organizer_update_now_with_dry_run_mode/",
+    "permalink": "/r/linux/comments/1ftc7d0/ai_file_organizer_update_now_with_dry_run_mode/"
+  },
+  {
+    "title": "The RCU API, 2024 edition [LWN.net]",
+    "selftext": "",
+    "link_flair_text": "Kernel",
+    "url": "https://lwn.net/Articles/988638/",
+    "permalink": "/r/linux/comments/1ftmn5w/the_rcu_api_2024_edition_lwnnet/"
+  },
+  {
+    "title": "sharing \"pwr-tray\" - power management applet for i3 and sway\n",
+    "selftext": "[pwr-tray · PyPI](https://pypi.org/project/pwr-tray/) is a qt5 system tray applet with power management features for i3 and sway using systemd. On i3, the menu might look like:\n\n[pwr-tray menu \\(right-click its icon\\)](https://preview.redd.it/hp77xkib96sd1.png?width=322&amp;format=png&amp;auto=webp&amp;s=a22e93058616f732dde4f95c0851faa307be4539)\n\nAs the menu suggests, it provides many one-click commands (after opening the menu) including changing mode (Presentation, SleepAfterLock, and LockOnly), changing timeouts, immediate screen locking, etc. It deals with systemd inhibits, media player inhibits, low battery situations, etc.  That is, it consolidates many related needs w/o messy configs.  And its colorful icons inform you of its major modes and states.\n\nAs a bonus, it works for KDE+X11, too. I first developed pwr-tray back when (for me at least) KDE's power management was perpetually broken. This version is a qt5 app which may require some to install the qt5 foundation as a prerequisite.\n\nA unified power management app is quite the pain on Linux ... hence, pwr-tray on runs only on the few DEs/WMs I care to use.  Cheers.",
+    "link_flair_text": "Software Release",
+    "url": "https://www.reddit.com/r/linux/comments/1ftso5t/sharing_pwrtray_power_management_applet_for_i3/",
+    "permalink": "/r/linux/comments/1ftso5t/sharing_pwrtray_power_management_applet_for_i3/"
+  },
+  {
+    "title": "gnu website is down",
+    "selftext": "anyone know whats up with the gnu website? i was in the middle of an easybuild install and it crashed with an error when it could not reach [https://www.gnu.org/software/gzip/](https://www.gnu.org/software/gzip/)",
+    "link_flair_text": "Open Source Organization",
+    "url": "https://www.reddit.com/r/linux/comments/1ftk7qf/gnu_website_is_down/",
+    "permalink": "/r/linux/comments/1ftk7qf/gnu_website_is_down/"
+  },
+  {
+    "title": "So it's been 4 months since I switched to Linux.",
+    "selftext": "So, I switched from Windows to Linux in June. I was interested since before then, and CrowdStrike pretty much is the nail that close any desire of mine to reinstall Windows again. So I took my blank DVD, burn the Pop!_OS ISO and I install Linux into my ASUS X44H. In short, Pop 22.04 was great, definitely a great time for me. But then I have a GRUB error, and so I install my next distro: Arch\n\nSo I follow [this guide](https://gist.github.com/mjkstra/96ce7a5689d753e7a6bdd92cdc169bae) and I install Arch on my laptop. I love the fact that it's bleeding edge and AUR is definitely something that I wish all distro have. My only real issue was the GRUB error, which I managed to fix by... reinstall GRUB (Thanks, r/archlinux) and Wine. Unfortunately, Wine prefix creation doesn't seem to work on BTRFS and later when I use Arch again, I use ext4, and while that fix things, Wine still have problem that I am not willing to try and troubleshoot. Also, I use Wine to play Touhou, I can't exactly use any PC without playing Touhou anymore\n\nFinally, I use Mint, which works perfectly for me in everything that I use (minus AUR and Hyprland). It's just works out of the box. Ok, not really, I still have to setup zram and turn off several things, but afterward, it's all good. It's what I use now on my laptop\n\nMaybe when I get a new PC, I might multiboot Windows 11 LTSC (for Koikatu and every other game that I can't get to work on Linux. No game that use kernel level anti-cheat though), Mint, Arch and maybe Pop 24.04, whenever it's out",
+    "link_flair_text": "Fluff",
+    "url": "https://www.reddit.com/r/linux/comments/1ftkv8e/so_its_been_4_months_since_i_switched_to_linux/",
+    "permalink": "/r/linux/comments/1ftkv8e/so_its_been_4_months_since_i_switched_to_linux/"
+  },
+  {
+    "title": "September 30th, 2024, FFmpeg 7.1 \"Péter\"",
+    "selftext": "[Changelog](https://git.ffmpeg.org/gitweb/ffmpeg.git/blob/refs/heads/release/7.1:/Changelog)",
+    "link_flair_text": "Software Release",
+    "url": "https://ffmpeg.org/",
+    "permalink": "/r/linux/comments/1fsuyqc/september_30th_2024_ffmpeg_71_péter/"
+  },
+  {
+    "title": "Linus Torvalds explains why aging Linux developers are a good thing",
+    "selftext": "",
+    "link_flair_text": "Discussion",
+    "url": "https://techcrunch.com/2024/09/22/linus-torvalds-explains-why-aging-linux-developers-are-a-good-thing/",
+    "permalink": "/r/linux/comments/1fsh3tc/linus_torvalds_explains_why_aging_linux/"
+  },
+  {
+    "title": "Amarok 3.1.1 released",
+    "selftext": "",
+    "link_flair_text": "Software Release",
+    "url": "https://blogs.kde.org/2024/09/29/amarok-3.1.1-released/",
+    "permalink": "/r/linux/comments/1fsuvg5/amarok_311_released/"
+  },
+  {
+    "title": "Dont use external SATA or M.2 as boot drive before knowing the risk. ",
+    "selftext": "I got a reading error when i boot up a Linux SSD in a laptop's motherboard M.2 slot. i was trying to switch to Linux so i bought an external M.2 slot for my new SSD to host Linux. when I was happy with Linux, I put my new Linux SSD in the motherboard. when i boot it up it gave a reading error. I thought that was because the laptop refuses to use any parts not made by the manufacturer. so I returned both SSD to their previous places. the windows SSD on the motherboard and the Linux SSD on the external M.2. I deleted windows from the motherboard SSD and started copying linux to the motherboard SSD using [clonezilla](https://clonezilla.org/). the copying was successful. then it gave the same reading error when i boot it up. I am not an expert in hardware but my theory is that the new SSD after using it on an external M.2. it installed for it self USB drivers instead of normal SSD drivers, resulting in the external SSD thinking it is a normal USB flash. I still did not find any fixes yet but soon I will legally copy windows from a random device to get one of the SSDs back to their sense. then reinstall linux while the SSD is in the laptop motherboard.",
+    "link_flair_text": "Hardware",
+    "url": "https://www.reddit.com/r/linux/comments/1fu8ijn/dont_use_external_sata_or_m2_as_boot_drive_before/",
+    "permalink": "/r/linux/comments/1fu8ijn/dont_use_external_sata_or_m2_as_boot_drive_before/"
+  },
+  {
+    "title": "simple cli math utilities?",
+    "selftext": "I've had 2 separate situations where I wanted to sum up a list of numbers and was surprised there isn't a simple sum command or shell function. I expected to do sum &lt; numbers or xargs sum &lt; numbers, but nope, I wound up writing a bash loop.\n\n[math.h](https://www.geeksforgeeks.org/c-library-math_h/) is a C library with a bunch of useful math functions. What I really want is that for my command line scripts.\n\nI know there's lots of cli calculators, (dc, bc, qalc etc...), but that's not what I'm looking for.\n\nAnyone know of a collection of simple math functions like that?\n\nThanks!",
+    "link_flair_text": "Tips and Tricks",
+    "url": "https://www.reddit.com/r/linux/comments/1ft2ve2/simple_cli_math_utilities/",
+    "permalink": "/r/linux/comments/1ft2ve2/simple_cli_math_utilities/"
+  },
+  {
+    "title": "magic-tape, tui yt client/downloader, new feature: View video description and comments in the terminal.",
+    "selftext": " [https://gitlab.com/christosangel/magic-tape](https://gitlab.com/christosangel/magic-tape)\n\n Magic-tape is an image supporting fuzzy finder tui YouTube client.\n\n Now introducing a new feature: the video description as well as the comments written by YT viewers will be shown in the terminal window, while the video is reproduced.\n \n \n Now, for what it's worth, the user can be satisfied reading other viewers having a swing at the politicians/celebrities/stars they love to hate, or, watch closely to their heart's content, as cyber nuclear attacks are launched between self-righteous, valiant and livid keyboard fighters.\n \n Comment loading is asynchronous to video loading, so it is possible that there will be some delay in the appearence of the comments. That depends on the number of comments, network speed etc.",
+    "link_flair_text": "Software Release",
+    "url": "https://www.reddit.com/r/linux/comments/1ft03k4/magictape_tui_yt_clientdownloader_new_feature/",
+    "permalink": "/r/linux/comments/1ft03k4/magictape_tui_yt_clientdownloader_new_feature/"
+  },
+  {
+    "title": "Listening to music via the terminal?",
+    "selftext": "Hi all,\n- Software: I would like to know if anyone uses any software that by using the apis of youtube,spotify or other providers can listen music via terminal. \n- Additional info: I dont need gui or video. Just pure music and additionally I would prefer not to download the song as then I will need to clean that directory but still that isnt difficult with a daily cron. My usage would be for a lofi mostly\n- Good alternative: https://github.com/Rigellute/spotify-tui I dont know if someone has used it and if you have good feedback\n\nThanks all,\nP.S I'm checking the options recommended, ty",
+    "link_flair_text": "Popular Application",
+    "url": "https://www.reddit.com/r/linux/comments/1ftrl2u/listening_to_music_via_the_terminal/",
+    "permalink": "/r/linux/comments/1ftrl2u/listening_to_music_via_the_terminal/"
+  }
+]
